@@ -1,3 +1,54 @@
+# Dino Card TCG
+
+
+## Game concept
+In a pre-Hispanic world, you seek to survive while gaining ground throughout your story, win battles against others using those creatures that you have donated without your base being destroyed and prove to be the best!!
+
+
+## Download local game
+
+1. Clone the repository
+
+```sh
+git clone git@github.com:Toootiz/TC2005B-Reto.git
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Git and github laboratory
 ## Description
 
